@@ -1,0 +1,12 @@
+
+train: /root/autodl-tmp/FastCUT0423/images/train
+val: /root/autodl-tmp/FastCUT0423/images/val
+test: /root/autodl-tmp/FastCUT0423/images/test
+
+# val: D:\ProgrammingProjects\PythonProjects\Contextual-Object-Detection\CCTSDB_YOLO\test.txt
+# test: D:\ProgrammingProjects\PythonProjects\Contextual-Object-Detection\CCTSDB_YOLO\test.txt
+# number of classes
+nc: 3
+
+# class names
+names: ["warning", "prohibitory", "mandatory"]
