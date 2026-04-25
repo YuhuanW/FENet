@@ -21,7 +21,7 @@ This repository contains the PyTorch implementation of the paper *"Improving Tra
 Clone the repository and install the necessary dependencies:
 
 ```bash id="q0xx8y"
-git clone https://github.com/your-username/FENet.git
+git clone https://github.com/YuhuanW/FENet.git
 cd FENet
 pip install -r requirements.txt
 ```
